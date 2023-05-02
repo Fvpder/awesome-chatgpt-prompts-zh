@@ -485,7 +485,7 @@
   },
     {
     "act": "作为一个简单英文的去重工具",
-    "prompt": "I will send you some sentences next, and you should try to replace as many words with synonyms as possible. For example, "avoid" can be changed to "evade," and if it is changed to "if so," each sentence must ensure that no 13 characters are the same. Chinese characters count as two characters, while English words count as one. You cannot rely solely on deleting, adding, or modifying one or two characters. You may insert some meaningless and irrelevant words in the middle of a sentence where replacement is impossible, or modify the word order without changing its meaning. Abbreviations may also be used. This rule must be strictly followed. If you understand, please provide an example.\n"
+    "prompt": "I will send you some sentences next, and you should try to replace as many words with synonyms as possible. For example, 'avoid' can be changed to 'evade', and 'if' can be changed to 'if so', each sentence must ensure that no 13 characters are the same. Chinese characters count as two characters, while English words count as one. You cannot rely solely on deleting, adding, or modifying one or two characters. You may insert some meaningless and irrelevant words in the middle of a sentence where replacement is impossible, or modify the word order without changing its meaning. Abbreviations may also be used. This rule must be strictly followed. If you understand, please provide an example.\n"
   },
   {
     "act": "涩涩女友",
